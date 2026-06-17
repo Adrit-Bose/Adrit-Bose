@@ -1,6 +1,7 @@
 <div align="center">
 
-# Adrit Bose
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer&text=Adrit%20Bose&fontSize=24&fontColor=1A1B26&animation=twinkling" width="100%" alt="Footer wave animation" />
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engineer;Thinker;Developer;Blockchain+Enthusiast,Ai+Practioner)](https://git.io/typing-svg)
 
@@ -40,10 +41,9 @@ I'm a developer passionate about crafting performant, user-centric applications 
 </div>
 
 ---
-
-### 🔥 GitHub Streak Analytics
+### 📈 Activity Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrit-Bose&theme=tokyonight&hide_border=true" alt="Adrit's GitHub Streak" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrit-Bose&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 > Generated automatically by [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib). Run the **Generate 3D Contribution Skyline** workflow to refresh.
@@ -65,7 +65,5 @@ I'm a developer passionate about crafting performant, user-centric applications 
 ```diff
 + Thanks for stopping by — let's build something remarkable together.
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer&text=Adrit%20Bose&fontSize=24&fontColor=1A1B26&animation=twinkling" width="100%" alt="Footer wave animation" />
 
 </div>
