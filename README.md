@@ -41,14 +41,9 @@ I'm a developer passionate about crafting performant, user-centric applications 
 
 ---
 
-## Contribution Skyline
-
+### 🔥 GitHub Streak Analytics
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-view.svg"
-    alt="3D isometric GitHub contribution skyline"
-    width="100%"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrit-Bose&theme=tokyonight&hide_border=true" alt="Adrit's GitHub Streak" width="100%" />
 </p>
 
 > Generated automatically by [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib). Run the **Generate 3D Contribution Skyline** workflow to refresh.
