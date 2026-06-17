@@ -1,13 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer&text=Adrit%20Bose&fontSize=24&fontColor=1A1B26&animation=twinkling" width="100%" alt="Footer wave animation" />
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engineer;Thinker;Developer;Blockchain+Enthusiast,Ai+Practioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engineer;Thinker;Developer;Blockchain+Enthusiast;Ai+Practioner)](https://git.io/typing-svg)
 
 *Building elegant systems at the intersection of software, scale, and emerging tech.*
 
-[![GitHub followers](https://img.shields.io/github/followers/Adrit-Bose?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1A1B26)](https://github.com/Adrit-Bose)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B26)](https://www.linkedin.com/in/adrit-bose)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26)](mailto:adrit.bose@example.com)
 
@@ -65,5 +61,7 @@ I'm a developer passionate about crafting performant, user-centric applications 
 ```diff
 + Thanks for stopping by — let's build something remarkable together.
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:BB9AF7&height=120&section=footer&text=Adrit%20Bose&fontSize=24&fontColor=1A1B26&animation=twinkling" width="100%" alt="Footer wave animation" />
 
 </div>
