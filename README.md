@@ -2,7 +2,7 @@
 
 # Adrit Bose
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Blockchain+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Engineer;Thinker;Developer;Blockchain+Enthusiast,Ai+Practioner)](https://git.io/typing-svg)
 
 *Building elegant systems at the intersection of software, scale, and emerging tech.*
 
