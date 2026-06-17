@@ -59,7 +59,7 @@ I'm a developer passionate about crafting performant, user-centric applications 
 
 <div align="center">
 
-[![Adrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrit-Bose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&border_radius=10&include_all_commits=true&count_private=true)](https://github.com/Adrit-Bose)
+[![Adrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrit-Bose&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&border_radius=10)](https://github.com/Adrit-Bose)
 
 </div>
 
